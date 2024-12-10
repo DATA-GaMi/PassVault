@@ -1,0 +1,8 @@
+D:\Desec\工作\项目\内部分享\Demo\凭据访问\PassVault\obj\Debug\PassVault.csproj.AssemblyReference.cache
+D:\Desec\工作\项目\内部分享\Demo\凭据访问\PassVault\obj\Debug\PassVault.csproj.CoreCompileInputs.cache
+D:\Desec\工作\项目\内部分享\Demo\凭据访问\PassVault\obj\Debug\PassVault.csproj.CopyComplete
+D:\Desec\工作\项目\内部分享\Demo\凭据访问\PassVault\bin\Debug\GetWebCredential.exe.config
+D:\Desec\工作\项目\内部分享\Demo\凭据访问\PassVault\bin\Debug\GetWebCredential.exe
+D:\Desec\工作\项目\内部分享\Demo\凭据访问\PassVault\bin\Debug\GetWebCredential.pdb
+D:\Desec\工作\项目\内部分享\Demo\凭据访问\PassVault\obj\Debug\GetWebCredential.exe
+D:\Desec\工作\项目\内部分享\Demo\凭据访问\PassVault\obj\Debug\GetWebCredential.pdb
